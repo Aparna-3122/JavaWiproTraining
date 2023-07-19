@@ -1,0 +1,11 @@
+# Class Files
+*.class
+
+# Object Serialization
+*.ser
+
+# VS Code
+.vscode/
+
+# Eclipse
+*/build/
